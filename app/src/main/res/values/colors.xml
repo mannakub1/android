@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="incorrect_guess">#e45145</color>
+    <color name="correct_guess">#71a5e0</color>
+    <color name="number_too_less">#ffd449</color>
+    <color name="number_too_much">#ff9812</color>
+</resources>
